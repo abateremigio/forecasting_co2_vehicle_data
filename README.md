@@ -1,2 +1,2 @@
-# forecasting_co2_vehicle_data
+# Forecasting CO2 Emissions Using Vehicle Data
 This is a data analytics and machine learning project that aims to predict the CO2 emissions of motor vehicles. It analyzes the impact of features such as engine size, number of cylinders, and fuel consumption on CO2 emissions. The project begins with exploratory data analysis, to understand the key data characteristics. Then, Lasso, Post-Lasso, Random Forest and Gradient Boosting models are trained and fine-tuned to predict emissions. Finally, the performance of the models is evaluated using accuracy metrics.
